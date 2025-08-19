@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -1443171914, guid: 0a1623943882f9f2394b1b55372d8706, type: 3}
+  m_Name: Android
+  m_EditorClassIdentifier:
+  features:
+  - {fileID: 11400000, guid: bc2c35b0691c76b48b8dcc76832c7ea1, type: 2}
+  - {fileID: 11400000, guid: d98c4475fe510fa41b7ca89b4486545e, type: 2}
+  - {fileID: 11400000, guid: eaa019566a605844ab3e2a385f31c7b8, type: 2}
+  - {fileID: 11400000, guid: afa4e99ff7b98fb4893088739417db5c, type: 2}
+  - {fileID: 11400000, guid: 6cdb76963d0152b4a9c906313a48071a, type: 2}
+  - {fileID: 11400000, guid: 872022310418c0347bbda617933d378c, type: 2}
+  - {fileID: 11400000, guid: 93d9f8558ed010d42a8f04c0bfd5e83d, type: 2}
+  - {fileID: 11400000, guid: 881a4550f8b067f4181df1da08b2cf8b, type: 2}
+  - {fileID: 11400000, guid: aff4daaf29d98f140afe0984dba3a8e2, type: 2}
+  - {fileID: 11400000, guid: 26018e87569408e43b499f0515f41e24, type: 2}
+  - {fileID: 11400000, guid: f7c70cccf2a4ed5429a42bd7c1203ca5, type: 2}
+  - {fileID: 11400000, guid: 9f492af5ae999cf4e839c08da1b04bb9, type: 2}
+  - {fileID: 11400000, guid: a59dec42a09f17d40bc1f3bd65cbe21d, type: 2}
+  - {fileID: 11400000, guid: a878411dcd4e1e34b99bac776d1521b9, type: 2}
+  - {fileID: 11400000, guid: f87455b578a756d48a314414e4945985, type: 2}
+  - {fileID: 11400000, guid: 61ae9b53909cf2047920f84ac6105849, type: 2}
+  m_renderMode: 0
+  m_autoColorSubmissionMode: 1
+  m_colorSubmissionModes:
+    m_List: 00000000
+  m_depthSubmissionMode: 0
+  m_spacewarpMotionVectorTextureFormat: 0
+  m_optimizeBufferDiscards: 0
+  m_symmetricProjection: 0
